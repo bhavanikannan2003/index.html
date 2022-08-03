@@ -1,0 +1,617 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>PROJECT</title>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x"crossorigin="anonymous">
+  <link rel="stylesheet"
+   href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+  
+
+</head>
+
+
+
+</html>
+
+<Navbar>
+ <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
+  
+		<div class="container-fluid">
+       <i class='fas fa-phone-volume' style='font-size:24pxred' i>
+         <style>
+.right {
+  float: right;
+  width: 350px;
+  border: 2px solid #F08080 	;
+  padding: 5px;
+  img{  
+      height: 100px;  
+      width: 250px; 
+    #left {    
+ text-align: left;  
+ }
+    } 
+}
+           html{
+	background-color: #eaf0f2;
+}
+
+header h1{
+	font: normal 32px/1.5 'Open Sans', sans-serif;
+	color: #3F71AE;
+	padding-bottom: 16px;
+}
+
+header h2{
+	color: #F05283;
+}
+
+header span{
+	color: #3F71EA;
+}
+
+
+footer{
+	position: fixed;
+	bottom: 0;
+}
+
+@media (max-height:800px){
+	footer { position: static; }
+	header { padding-top:60px; }
+}
+
+
+
+
+.footer-distributed .footer-left,
+.footer-distributed .footer-center,
+.footer-distributed .footer-right{
+	display: inline-block;
+	vertical-align: top;
+}
+
+/* Footer left */
+
+.footer-distributed .footer-left{
+	width: 30%;
+}
+
+.footer-distributed h3{
+	color:  #ffffff;
+	font: normal 36px 'Cookie', cursive;
+	margin: 0;
+}
+
+.footer-distributed .footer-left img{
+	width: 10%;
+  padding:50px;
+}
+
+.footer-distributed h3 span{
+	color:  #e0ac1c;
+}
+
+
+.footer-distributed .footer-links{
+	color:  #ffffff;
+	margin: 20px 0 12px;
+}
+
+.footer-distributed .footer-links a{
+	display:inline-block;
+	line-height: 1.8;
+	text-decoration: none;
+	color:  inherit;
+}
+
+.footer-distributed .footer-company-name{
+	color:  #8f9296;
+	font-size: 14px;
+	font-weight: normal;
+	margin: 0;
+}
+
+
+.footer-distributed .footer-center{
+	width: 150%;
+}
+
+
+.footer-distributed .footer-center i{
+	background-color:  #33383b;
+	color: #ffffff;
+	font-size: 25px;
+	width: 40px;
+	height: 50px;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 50px;
+	margin: 8px 8px;
+	vertical-align: left;
+}
+
+.footer-distributed .footer-center i.fa-envelope{
+	font-size: 17px;
+	line-height: 40px;
+}
+
+.footer-distributed .footer-center p{
+	display: inline-block;
+	color: #ffffff;
+	vertical-align: left;
+	margin:0;
+}
+
+.footer-distributed .footer-center p span{
+	display:block;
+	font-weight: normal;
+	font-size:14px;
+	line-height:2;
+}
+
+.footer-distributed .footer-center p a{
+	color:  #e0ac1c;
+	text-decoration: none;;
+}
+
+
+.footer-distributed .footer-left{
+	width: 50%;
+}
+
+.footer-distributed .footer-company-about{
+	line-height: 20px;
+	color:  #92999f;
+	font-size: 13px;
+	font-weight: normal;
+	margin: 0;
+}
+
+.footer-distributed .footer-company-about span{
+	display: block;
+	color:  #ffffff;
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+.footer-distributed .footer-icons{
+	margin-top: 15px;
+}
+
+.footer-distributed .footer-icons a{
+	display: inline-block;
+	width: 25px;
+	height: 15px;
+	cursor: pointer;
+	background-color:  #33383b;
+	border-radius: 10px;
+
+	font-size: 20px;
+	color: #ffffff;
+	text-align: center;
+	line-height: 25px;
+
+	margin-right: 3px;
+	margin-bottom: 2px;
+}
+
+@media (max-width: 880px) {
+
+	.footer-distributed .footer-left,
+	.footer-distributed .footer-center,
+	.footer-distributed .footer-right{
+		display: block;
+		width: 100%;
+		margin-bottom: 40px;
+		text-align: center;
+	}
+
+	.footer-distributed .footer-center i{
+		margin-left: 0;
+	}
+
+}
+          
+</style>
+        
+  
+     
+ <a class="navbar-brand " href="#">+91-9222229727</a></i>
+			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+     
+<div class="right">
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link " aria-current="page" href="#hero">Home</a>
+          
+        </li>
+        <li class="nav-item">
+          <a class="nav-link " href="#About">About</a>
+         
+        </li>
+         <li class="nav-item">
+          <a class="nav-link" href="#services">Services</a>
+          
+        </li>
+         <li class="nav-item">
+          <a class="nav-link" href="#Careers">Careers</a>
+         
+        </li>
+        <li class="nav-item">
+          <a class="nav-link"
+href="#Contact">Contact</a>
+         
+        </li>
+          <link rel="stylesheet"
+
+ <p class="float-right"></p>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <img align="left" src ="https://www.acetrot.com/img/nav-logo.png" class="rounded" alt="Cinque Terre" width="200" height="80"  > 
+  <title>Aligning Buttons</title>
+  <h1 style="text-align:right;"></h1>
+  <div class="container">
+        <div class="text-right">
+          <button style="background-tael: ;"
+ <button class="btn btn-Dark btn-lg float-right" type="submit">Web development App</button>
+   <button class="btn btn-Dark btn-lg float-right" type="submit">Mobile development App</button>
+   <button class="btn btn-Dark btn-lg float-right" type="submit">Digital Marketing</button>
+      
+        </div>
+  </div>
+</div>
+
+
+</div>
+
+
+</div>
+
+</div>
+
+
+</body>
+
+
+
+</body>
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/w3css/3/w3.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+<body>
+
+
+<!-- Slide Show -->
+<section>
+  <img class="mySlides" src="https://www.acetrot.com/img/slider03.jpg"
+  style="width:100%">
+  <img class="mySlides" src="https://www.acetrot.com/img/slider04.jpg"
+  style="width:100%">
+  <img class="mySlides" src="https://www.acetrot.com/img/slider01.jpg"
+  style="width:100%">
+  <img class="mySlides" src="https://www.acetrot.com/img/slider02.jpg"
+  style="width:100%">
+</section>
+
+<!-- Our Clients -->
+<section class="w3-container w3-middle w3-content" style="max-width:900px">
+  <table style="height: 100px;">  
+ <body>
+ <h1>
+    <img src="https://www.acetrot.com/img/arrow-3.png" style="width:5% ">
+   
+    <p class="text-center text-uppercase "> Our Clients</p>
+    </h1>
+   <h2>
+  <p class="text-center "> They decided to fly, we provided them with wings. Our clients play an important play an important role in our growth and so do we play a good role in their growth. Serving them has always been our pleasure.</p>
+   </h2>
+       
+  </body>
+</table>
+</section>
+
+<!-- brand -->
+ 
+<div class="row"> 
+  <div class="column">
+    <img src="https://www.acetrot.com/img/81.png" style="width:13%">
+    <img src="https://www.acetrot.com/img/82.png" style="width:13%">
+    <img src="https://www.acetrot.com/img/03.png" style="width:13%">
+    <img src="https://www.acetrot.com/img/01.png" style="width:13%">
+    <img src="https://www.acetrot.com/img/39.png" style="width:13%">
+    <img src="https://www.acetrot.com/img/37.png" style="width:13%">
+    <img src="https://www.acetrot.com/img/27.png" style="width:13%">
+  </div>
+  <!-- Our services -->
+<section class="w3-container w3-middle w3-content" style="max-width:900px">
+  <table style="height: 100px;">  
+ <body>
+ <h1>
+    <img src="https://www.acetrot.com/img/arrow-3.png" style="width:5% ">
+   
+    <p class="text-center text-uppercase "> Our services</p>
+    </h1>
+  
+ <div class="card-group">
+  <div class="card">
+    <img src="https://www.acetrot.com/img/ser1.png" class="card-img-top"  style="width: 18rem;" alt="Cinque Terre">
+    <div class="card-body">
+      <h5 class="card-title">Web App Development</h5>
+      <p class="card-text">Have a website that is at par with your service and its image. Let your online address uplift your brand identity.</p>
+      
+      <a href="#" class="btn btn-danger">know more</a>
+    </div>
+  </div>
+  <div class="card">
+    <img src="https://www.acetrot.com/img/ser2.png" class="card-img-top"  style="width: 18rem;" alt="Cinque Terre">
+    <div class="card-body">
+      <h5 class="card-title">Mobile App Development</h5>
+      <p class="card-text">Easily reach out to your audience in the plam of their hands by using Native or Cross-Platform technologies.</p>
+    
+      <a href="#" class="btn btn-danger">know more</a>
+    </div>
+  </div>
+  <div class="card">
+    <img src="https://www.acetrot.com/img/whapp.png" class="card-img-top"  style="width: 18rem;" alt="Cinque Terre">
+    <div class="card-body">
+      <h5 class="card-title">Digital Marketing</h5>
+      <p class="card-text">Drive Rich Conversations With WhatsApp Business API & Reduce repetitive tasks of providing customers with relevant information 24*7.</p>
+     
+      <a href="#" class="btn btn-danger">know more</a>
+    </div>
+  </div>
+</div>
+   <div class="card-group">
+  <div class="card">
+    <img src="https://www.acetrot.com/img/e-com.png" class="card-img-top"  style="width: 18rem;" alt="Cinque Terre">
+    <div class="card-body">
+      <h5 class="card-title">e-Commerce</h5>
+      <p class="card-text">Take your store to the world with a website created using open platforms like Magneto, Joomla, PrestaShop, OpenCart, etc.</p>
+      
+      <a href="#" class="btn btn-danger">know more</a>
+    </div>
+  </div>
+  <div class="card">
+    <img src="https://www.acetrot.com/img/social.png" class="card-img-top"  style="width: 18rem;" alt="Cinque Terre">
+    <div class="card-body">
+      <h5 class="card-title">Social Media Marketing</h5>
+      <p class="card-text">Like. Share. Subscribe. Converse. Connect. Build your consumer base across the web through social media.</p>
+    
+      <a href="#" class="btn btn-danger">know more</a>
+    </div>
+  </div>
+  <div class="card">
+    <img src="https://www.acetrot.com/img/search.png"  style="width: 18rem;" alt="Cinque Terre">
+    <div class="card-body">
+      <h5 class="card-title">Search Engine Optimization</h5>
+      <p class="card-text">Ensure more visibility during web searches results in grabbing more attention, more visibility of your brand.</p>
+     
+      <a href="#" class="btn btn-danger">know more</a>
+    </div>
+  </div>
+</div>
+   <div><h1><img src="https://www.acetrot.com/img/discover-main.png" style="width:100% "
+              class="text-align-last: right; text-title">About Us</h1>
+     <h3>
+      <p class="text-align-last: right;">We are Acetrot, a digital marketing hotshot agency delivering innovative Web Designing, Mobile Application Development and other Digital-related services in Mumbai. Our mission is to conceptualize and execute digital strategies that are crafted to fulfill our client’s concerns.We enjoy the entire process and ensure our clients do so as well!</p>
+     </h3>
+   </div>
+   
+<!-- Footer -->
+   
+<footer class="bg-dark text-center text-white" style="width:160% ">
+  <!-- Grid container -->
+  <div class="container p-4">
+    <!-- Section: Social media -->
+    <section class="mb-4">
+      
+    <!-- Section: Social media -->
+
+    <!-- Section: Form -->
+    <section class="">
+      <form action="">
+        <!--Grid row-->
+        <div class="row d-flex justify-content-center">
+           <img align="left" src ="https://www.acetrot.com/img/nav-logo.png" class="rounded" alt="Cinque Terre" width="200" height="80"  > 
+          
+    <!-- Section: Text -->
+
+    <!-- Section: QUICK LINKS -->
+    <section class="">
+      <!--Grid row-->
+      <div class="row">
+        <!--Grid column-->
+        <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+         
+          <h5 class="text-uppercase text-danger text-left">QUICK  LINKS</h5>
+
+          <ul class="list-unstyled mb-0">
+            <li>
+              <a href="#!" class="text-white">Home</a>
+            </li>
+            <li>
+              <a href="#!" class="text-white">About</a>
+            </li>
+            <li>
+              <a href="#!" class="text-white">Services</a>
+            </li>
+            <li>
+              <a href="#!" class="text-white">Careers</a>
+            </li>
+            <li>
+              <a href="#!" class="text-white">Contact</a>
+            </li>
+          </ul>
+        </div>
+        <!--Grid column-->
+
+        <!--Grid column-->
+        <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+          <h5 class="text-uppercase text-danger">SERVICES</h5>
+
+          <ul class="list-unstyled mb-0">
+            <li>
+              <a href="#!" class="text-white">Web Application Development</a>
+            </li>
+            <li>
+              <a href="#!" class="text-white">Moblie Application Development</a>
+            </li>
+            <li>
+              <a href="#!" class="text-white">WhatsApp Business API</a>
+            </li>
+            <li>
+              <a href="#!" class="text-white">e-Commerce</a>
+            </li>
+            <li>
+              <a href="#!" class="text-white">Social Media Marketing</a>
+            </li><li>
+              <a href="#!" class="text-white">Search Engine Optimization</a>
+            </li>
+<li>
+              <a href="#!" class="text-white">
+Google Advertising</a>
+            </li>
+            <li>
+              <a href="#!" class="text-white">
+SMS & Email Marketing</a>
+            </li>
+             <li>
+              <a href="#!" class="text-white">
+Digital Marketing</a>
+            </li>
+
+          </ul>
+        </div>
+        <!--Grid column-->
+
+        <!--Grid column-->
+        <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+          <h5 class="text-uppercase text-danger text-right" >CONTACT</h5>
+          <footer class="footer-distributed">
+
+			<div class="footer-left">
+          
+        
+				
+
+			
+			</div>
+
+			<div class="footer-center">
+					<div>
+					<i class="fa fa-map-marker"></i>
+					  <p><span>India Office:
+1st Floor, Kesariya Dham, Vallabh Baugh Lane, Opp. Ratna Stores, Ghatkopar (East), Mumbai - 400077, India.</p>
+				</div>
+
+				<div>
+					<i class="fa fa-phone"></i>
+					<p>
++91-9222229727</p>
+				</div>
+				<div>
+					<i class="fa fa-envelope"></i>
+					<p><a href="mailto:support@eduonix.com">
+
+info@acetrot.com</a></p>
+				</div>
+				</div>
+			</div>
+			
+				<div class="footer-icons">
+					<a href="#"><i class="fa fa-facebook"></i></a>
+					<a href="#"><i class="fa fa-twitter"></i></a>
+					<a href="#"><i class="fa fa-instagram"></i></a>
+					<a href="#"><i class="fa fa-linkedin"></i></a>
+					<a href="#"><i class="fa fa-youtube"></i></a>
+				</div>
+			</div>
+		</footer>
+
+          
+        </div>
+        <!--Grid column-->
+
+        
+        <!--Grid column-->
+      </div>
+      <!--Grid row-->
+    </section>
+    <!-- Section: Links -->
+  </div>
+  <!-- Grid container -->
+   <!-- Facebook -->
+      <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+        ><i class="fab fa-facebook-f"></i
+      ></a>
+
+      <!-- Twitter -->
+      <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+        ><i class="fab fa-twitter"></i
+      ></a>
+
+      <!-- Google -->
+      <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+        ><i class="fab fa-google"></i
+      ></a>
+
+      <!-- Instagram -->
+      <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+        ><i class="fab fa-instagram"></i
+      ></a>
+
+      <!-- Linkedin -->
+      <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+        ><i class="fab fa-linkedin-in"></i
+      ></a>
+
+      <!-- Github -->
+      <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+        ><i class="fab fa-github"></i
+      ></a>
+    </section>
+
+  <!-- Copyright -->
+  <div class="text-center p-1 " style="background-color: gray;">
+     
+    <p class="footer-company-name">Copyright 2022 ©  Acetrot</p>
+    
+  </div>
+  <!-- Copyright -->
+</footer>
+
+
+<script>
+// Automatic Slideshow - change image every 3 seconds
+var myIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}
+  x[myIndex-1].style.display = "block";
+  setTimeout(carousel, 3000);
+}
+</script>
+
+</body>
+</html>
